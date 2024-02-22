@@ -19,3 +19,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Create a new branch for your feature or bug fix.
 - Make your changes and test thoroughly.
 - Submit a pull request explaining your changes.
+
+# Contact
+If you have any questions or suggestions, feel free to reach out to the me .
+
+- Name: ANKIT KUMAR JHA
+- Email: ankitjha1403@gmail.com
+Thank you for using our TastyBites application!
